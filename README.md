@@ -35,17 +35,6 @@ imdb_project/
 └── top_grossing.png       # Chart: highest grossing movies
 ```
 
-## How to Run
-
-1. Clone this repository
-2. Install dependencies:
-   ```
-   pip install pandas matplotlib seaborn
-   ```
-3. Run the script:
-   ```
-   python imdb_analysis.py
-   ```
 4. Charts will be saved as PNG files in the same folder
 
 ## Dataset
